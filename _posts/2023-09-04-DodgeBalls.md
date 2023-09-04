@@ -1,9 +1,10 @@
 ---
 layout: post
+title: "DodgeBalls"
 ---
 
 <div style="text-align: center;">
-  <img src="{{ site.url }}/images/DodgeBalls.png" width="50%"/>
+  <img src="{{ site.url }}/images/DodgeBalls.gif" width="50%"/>
 </div>
 <br>
 
