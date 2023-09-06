@@ -8,9 +8,9 @@ title: "StarryFrog"
 </div>
 <br>
 
-Try the game live at: [https://daneelsan.github.io/StarryFrog/]()
+Try the game live at: [https://daneelsan.github.io/StarryFrog/](https://daneelsan.github.io/StarryFrog/)
 
-At the end of last year, I found out [raylib](https://www.raylib.com) has having a gamejam to celebrate reaching 9 years [https://itch.io/jam/raylib-9-years-gamejam]().
+At the end of last year, I found out [raylib](https://www.raylib.com) has having a gamejam to celebrate reaching 9 years [https://itch.io/jam/raylib-9-years-gamejam](https://itch.io/jam/raylib-9-years-gamejam).
 
 Until that point, I had never participated in a gamejam (or any other kind of code-related jam), so I thought it was a great opportunity.
 `raylib` is (according to its wiki) "(...) a simple and easy-to-use library to enjoy videogames programming.".
