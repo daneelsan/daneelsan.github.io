@@ -20,15 +20,15 @@
           </li>
           {% endif %}
 
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-
           {% if site.wolfram_community_username %}
           <li>
             {% include icon-wolfram-community.html username=site.wolfram_community_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
         </ul>
