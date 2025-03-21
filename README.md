@@ -43,3 +43,7 @@ Both serve the site at `http://localhost:4000`.
 There is no need to build anything.
 Simply add the posts to the `_posts` directory and do a `git add <...>` and `git push`.
 They should appear in https://daneelsan.github.io (it may take a few minutes to update after pushing the changes).
+
+## Requirements
+
+* See https://jekyllrb.com/docs/installation/macos/
